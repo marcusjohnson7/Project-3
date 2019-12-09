@@ -1,0 +1,53 @@
+body{
+	 background-image: url("profBack.jpg");
+    background-size: 50% 
+}
+	
+#hd{
+	background-color: #64F4D7;
+    padding:50px;
+	width:80%;
+	height:280;
+    margin-top:10px;
+    margin-left:5%;
+    
+}
+#ft{
+	background-color: #64F4D7;
+    padding:50px;
+	width:80%;
+	height:40;
+	margin-top:10px;
+    margin-left:5%;
+}
+#ln{
+	background-color:#C9FCF2;
+    padding:50px;
+	width: 7%;
+	height:69%;
+	float:left;
+    margin-top:10px;
+    margin-left:5%;
+    opacity: 0.8;
+
+}
+#rn{
+	background-color:#C9FCF2;
+    padding:50px;
+	width: 7%;
+	height:69%;
+	float:right;
+    margin-top:10px;
+    margin-right:102px;
+    opacity: 0.8;
+}
+#cont{
+	background-color:#C9FCF2;
+    padding:50px;
+	width: 48%;
+	height:68%;
+	margin-top:10px;
+    margin-left:280px;
+	overflow: scroll;
+    opacity: 0.8;
+}
